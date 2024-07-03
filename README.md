@@ -3,7 +3,7 @@ This project is a Python-based web scraper that monitors Amazon product prices a
 
 # Features
 
-Scrapes product details (title, price, etc.) from Amazon.
+Scrapes product details (title, price) from Amazon.
 
 Monitors price changes and sends email alerts.
 
@@ -13,4 +13,4 @@ Before running the scraper, make sure you have the following installed:
 
 Python 3.x
 
-Required Python libraries (e.g., requests, beautifulsoup4, smtplib)
+Required Python libraries (requests, beautifulsoup4, smtplib)
